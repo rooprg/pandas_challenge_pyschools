@@ -5,7 +5,9 @@ Below is the help I received with certain aspects of this assignment.
 Citations:
 
 (1)   Aggregating statistics grouped by category. (2024). Retrieved from https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/06_calculate_statistics.html/
+
 (2)   Oyama, F. (2023, January 25). How to Use the Pandas DataFrame Groupby Method. Retrieved from https://www.theoceancleanup.com/updates/whales-likely-impacted-by-great-pacific-garbage-patch/
+
 (3)   Xpert Learning Assistance. (2024, April 23). . [Response to user question]. Retrieved from [URL of the platform where the conversation took place].
 
         When encountering an unknown error type during my work on Module Challenge 4, namely "FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass 
